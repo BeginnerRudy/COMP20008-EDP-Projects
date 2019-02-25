@@ -1,0 +1,81 @@
+lga_name, lga_code, ste_name, avoid_dths_cancer_2_asr, avoid_dths_diab_2_asr, avoid_dths_colo_2_asr, avoid_dths_pulm_2_asr, avoid_dths_cerb_2_asr
+"Alpine (S)",20110,"vic",26.8,null,9.6,6.9,6.1
+"Ararat (RC)",20260,"vic",34.6,13.0,13.2,12.5,15.8
+"Ballarat (C)",20570,"vic",34.9,5.1,12.8,12.0,9.8
+"Banyule (C)",20660,"vic",29.0,3.8,9.5,5.0,8.4
+"Bass Coast (S)",20740,"vic",33.1,6.7,8.2,8.9,5.8
+"Baw Baw (S)",20830,"vic",26.5,5.2,5.3,10.1,6.4
+"Bayside (C)",20910,"vic",23.9,3.6,7.5,4.9,5.7
+"Benalla (RC)",21010,"vic",37.5,10.3,9.2,6.6,11.5
+"Boroondara (C)",21110,"vic",22.5,1.7,6.3,2.9,5.1
+"Brimbank (C)",21180,"vic",24.4,9.1,10.2,5.5,10.2
+"Buloke (S)",21270,"vic",42.4,null,null,null,null
+"Campaspe (S)",21370,"vic",31.4,6.8,6.9,9.6,9.6
+"Cardinia (S)",21450,"vic",30.0,3.7,7.6,7.0,6.4
+"Casey (C)",21610,"vic",27.9,4.4,10.7,7.0,10.0
+"Central Goldfields (S)",21670,"vic",40.4,14.1,13.3,13.0,10.9
+"Colac-Otway (S)",21750,"vic",38.2,null,9.2,9.7,10.9
+"Corangamite (S)",21830,"vic",30.2,5.3,6.4,5.1,8.3
+"Darebin (C)",21890,"vic",27.7,4.4,8.6,7.1,7.8
+"East Gippsland (S)",22110,"vic",32.1,5.8,12.5,9.0,8.4
+"Frankston (C)",22170,"vic",33.9,6.7,12.4,12.7,7.3
+"Gannawarra (S)",22250,"vic",27.7,7.0,8.6,10.4,11.2
+"Glenelg (S)",22410,"vic",35.7,4.3,16.4,6.7,5.2
+"Golden Plains (S)",22490,"vic",38.4,null,12.5,9.8,7.5
+"Greater Bendigo (C)",22620,"vic",30.2,5.2,11.0,9.3,10.2
+"Greater Dandenong (C)",22670,"vic",22.5,7.7,7.4,7.7,11.6
+"Greater Geelong (C)",22750,"vic",33.7,6.2,12.2,9.7,8.4
+"Greater Shepparton (C)",22830,"vic",30.2,7.1,9.2,10.7,12.8
+"Glen Eira (C)",22310,"vic",27.1,4.3,7.6,3.5,6.6
+"Hepburn (S)",22910,"vic",35.1,5.6,14.4,10.6,9.2
+"Hindmarsh (S)",22980,"vic",41.6,null,22.8,null,null
+"Hobsons Bay (C)",23110,"vic",33.3,4.6,11.0,9.7,9.6
+"Horsham (RC)",23190,"vic",29.0,10.9,10.9,6.8,14.8
+"Hume (C)",23270,"vic",28.3,6.5,9.0,9.5,7.4
+"Indigo (S)",23350,"vic",26.9,null,5.3,9.5,null
+"Kingston (C)",23430,"vic",33.1,3.5,11.0,4.9,8.7
+"Knox (C)",23670,"vic",26.2,4.6,9.5,6.9,8.5
+"Latrobe (C)",23810,"vic",26.7,11.3,8.5,12.7,12.1
+"Loddon (S)",23940,"vic",34.4,13.2,13.7,18.0,null
+"Macedon Ranges (S)",24130,"vic",23.7,3.5,9.0,5.6,6.5
+"Manningham (C)",24210,"vic",22.3,1.9,7.6,1.6,5.4
+"Mansfield (S)",24250,"vic",null,null,null,9.0,null
+"Maribyrnong (C)",24330,"vic",27.3,8.9,11.1,10.4,8.8
+"Maroondah (C)",24410,"vic",30.7,3.2,10.1,6.5,10.1
+"Melbourne (C)",24600,"vic",19.3,2.4,5.4,6.7,5.9
+"Melton (S)",24650,"vic",27.5,7.9,10.0,9.1,9.3
+"Mildura (RC)",24780,"vic",31.1,6.4,7.6,13.0,8.3
+"Mitchell (S)",24850,"vic",26.1,8.0,8.6,6.9,8.7
+"Moira (S)",24900,"vic",29.3,7.8,8.5,12.6,8.9
+"Monash (C)",24970,"vic",21.1,3.0,6.0,3.0,4.9
+"Moonee Valley (C)",25060,"vic",22.6,6.4,8.7,6.4,6.6
+"Moorabool (S)",25150,"vic",28.7,4.1,9.7,9.1,8.9
+"Moreland (C)",25250,"vic",31.5,7.7,11.9,5.9,8.1
+"Mornington Peninsula (S)",25340,"vic",32.1,2.8,8.2,6.3,5.3
+"Mount Alexander (S)",25430,"vic",29.9,null,12.3,7.9,6.5
+"Moyne (S)",25490,"vic",25.7,null,7.0,6.8,null
+"Murrindindi (S)",25620,"vic",36.7,null,10.2,10.9,12.5
+"Nillumbik (S)",25710,"vic",24.6,2.4,6.4,3.2,2.4
+"Northern Grampians (S)",25810,"vic",53.9,11.9,13.3,16.5,13.3
+"Port Phillip (C)",25900,"vic",28.2,5.4,8.1,7.4,4.4
+"Pyrenees (S)",25990,"vic",34.7,null,9.6,null,null
+"Queenscliffe (B)",26080,"vic",null,null,null,null,null
+"South Gippsland (S)",26170,"vic",26.7,6.8,8.0,6.5,9.1
+"Southern Grampians (S)",26260,"vic",33.0,null,11.6,10.1,7.3
+"Stonnington (C)",26350,"vic",29.7,3.5,9.6,3.8,6.6
+"Strathbogie (S)",26430,"vic",34.9,null,7.1,15.6,11.2
+"Surf Coast (S)",26490,"vic",22.8,null,9.2,null,null
+"Swan Hill (RC)",26610,"vic",20.1,8.5,6.7,11.0,10.4
+"Towong (S)",26670,"vic",20.6,null,null,12.0,null
+"Wangaratta (RC)",26700,"vic",32.5,5.7,10.3,14.1,6.4
+"Warrnambool (C)",26730,"vic",32.6,8.0,9.4,9.8,11.8
+"Wellington (S)",26810,"vic",40.0,5.9,10.9,9.0,13.1
+"West Wimmera (S)",26890,"vic",34.5,null,17.6,null,null
+"Whitehorse (C)",26980,"vic",31.6,2.7,12.2,3.2,6.7
+"Whittlesea (C)",27070,"vic",30.3,6.8,12.3,6.4,7.8
+"Wodonga (RC)",27170,"vic",32.7,5.7,10.1,11.5,8.8
+"Wyndham (C)",27260,"vic",25.6,4.9,9.2,8.1,8.3
+"Yarra (C)",27350,"vic",26.8,7.1,11.2,6.7,8.7
+"Yarra Ranges (S)",27450,"vic",27.9,2.3,8.3,9.1,8.7
+"Yarriambiack (S)",27630,"vic",17.8,null,null,null,10.6
+"Unincorporated Vic",29399,"vic",null,null,null,null,null

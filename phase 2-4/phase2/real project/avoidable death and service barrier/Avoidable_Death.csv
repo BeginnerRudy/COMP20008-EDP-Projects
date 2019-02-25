@@ -1,0 +1,81 @@
+ lga_code, lga_name,"diabetes_per100,000","cancer_per100,000","colorectal_per100,000","pulmonary _per100,000","cerebrovascular _per100,000"
+20110,Alpine (S),null,26.8,9.6,6.9,6.1
+20260,Ararat (RC),13,34.6,13.2,12.5,15.8
+20570,Ballarat (C),5.1,34.9,12.8,12,9.8
+20660,Banyule (C),3.8,29,9.5,5,8.4
+20740,Bass Coast (S),6.7,33.1,8.2,8.9,5.8
+20830,Baw Baw (S),5.2,26.5,5.3,10.1,6.4
+20910,Bayside (C),3.6,23.9,7.5,4.9,5.7
+21010,Benalla (RC),10.3,37.5,9.2,6.6,11.5
+21110,Boroondara (C),1.7,22.5,6.3,2.9,5.1
+21180,Brimbank (C),9.1,24.4,10.2,5.5,10.2
+21270,Buloke (S),null,42.4,null,null,null
+21370,Campaspe (S),6.8,31.4,6.9,9.6,9.6
+21450,Cardinia (S),3.7,30,7.6,7,6.4
+21610,Casey (C),4.4,27.9,10.7,7,10
+21670,Central Goldfields (S),14.1,40.4,13.3,13,10.9
+21750,Colac-Otway (S),null,38.2,9.2,9.7,10.9
+21830,Corangamite (S),5.3,30.2,6.4,5.1,8.3
+21890,Darebin (C),4.4,27.7,8.6,7.1,7.8
+22110,East Gippsland (S),5.8,32.1,12.5,9,8.4
+22170,Frankston (C),6.7,33.9,12.4,12.7,7.3
+22250,Gannawarra (S),7,27.7,8.6,10.4,11.2
+22310,Glen Eira (C),4.3,27.1,7.6,3.5,6.6
+22410,Glenelg (S),4.3,35.7,16.4,6.7,5.2
+22490,Golden Plains (S),null,38.4,12.5,9.8,7.5
+22620,Greater Bendigo (C),5.2,30.2,11,9.3,10.2
+22670,Greater Dandenong (C),7.7,22.5,7.4,7.7,11.6
+22750,Greater Geelong (C),6.2,33.7,12.2,9.7,8.4
+22830,Greater Shepparton (C),7.1,30.2,9.2,10.7,12.8
+22910,Hepburn (S),5.6,35.1,14.4,10.6,9.2
+22980,Hindmarsh (S),null,41.6,22.8,null,null
+23110,Hobsons Bay (C),4.6,33.3,11,9.7,9.6
+23190,Horsham (RC),10.9,29,10.9,6.8,14.8
+23270,Hume (C),6.5,28.3,9,9.5,7.4
+23350,Indigo (S),null,26.9,5.3,9.5,null
+23430,Kingston (C),3.5,33.1,11,4.9,8.7
+23670,Knox (C),4.6,26.2,9.5,6.9,8.5
+23810,Latrobe (C),11.3,26.7,8.5,12.7,12.1
+23940,Loddon (S),13.2,34.4,13.7,18,null
+24130,Macedon Ranges (S),3.5,23.7,9,5.6,6.5
+24210,Manningham (C),1.9,22.3,7.6,1.6,5.4
+24250,Mansfield (S),null,null,null,9,null
+24330,Maribyrnong (C),8.9,27.3,11.1,10.4,8.8
+24410,Maroondah (C),3.2,30.7,10.1,6.5,10.1
+24600,Melbourne (C),2.4,19.3,5.4,6.7,5.9
+24650,Melton (S),7.9,27.5,10,9.1,9.3
+24780,Mildura (RC),6.4,31.1,7.6,13,8.3
+24850,Mitchell (S),8,26.1,8.6,6.9,8.7
+24900,Moira (S),7.8,29.3,8.5,12.6,8.9
+24970,Monash (C),3,21.1,6,3,4.9
+25060,Moonee Valley (C),6.4,22.6,8.7,6.4,6.6
+25150,Moorabool (S),4.1,28.7,9.7,9.1,8.9
+25250,Moreland (C),7.7,31.5,11.9,5.9,8.1
+25340,Mornington Peninsula (S),2.8,32.1,8.2,6.3,5.3
+25430,Mount Alexander (S),null,29.9,12.3,7.9,6.5
+25490,Moyne (S),null,25.7,7,6.8,null
+25620,Murrindindi (S),null,36.7,10.2,10.9,12.5
+25710,Nillumbik (S),2.4,24.6,6.4,3.2,2.4
+25810,Northern Grampians (S),11.9,53.9,13.3,16.5,13.3
+25900,Port Phillip (C),5.4,28.2,8.1,7.4,4.4
+25990,Pyrenees (S),null,34.7,9.6,null,null
+26080,Queenscliffe (B),null,null,null,null,null
+26170,South Gippsland (S),6.8,26.7,8,6.5,9.1
+26260,Southern Grampians (S),null,33,11.6,10.1,7.3
+26350,Stonnington (C),3.5,29.7,9.6,3.8,6.6
+26430,Strathbogie (S),null,34.9,7.1,15.6,11.2
+26490,Surf Coast (S),null,22.8,9.2,null,null
+26610,Swan Hill (RC),8.5,20.1,6.7,11,10.4
+26670,Towong (S),null,20.6,null,12,null
+26700,Wangaratta (RC),5.7,32.5,10.3,14.1,6.4
+26730,Warrnambool (C),8,32.6,9.4,9.8,11.8
+26810,Wellington (S),5.9,40,10.9,9,13.1
+26890,West Wimmera (S),null,34.5,17.6,null,null
+26980,Whitehorse (C),2.7,31.6,12.2,3.2,6.7
+27070,Whittlesea (C),6.8,30.3,12.3,6.4,7.8
+27170,Wodonga (RC),5.7,32.7,10.1,11.5,8.8
+27260,Wyndham (C),4.9,25.6,9.2,8.1,8.3
+27350,Yarra (C),7.1,26.8,11.2,6.7,8.7
+27450,Yarra Ranges (S),2.3,27.9,8.3,9.1,8.7
+27630,Yarriambiack (S),null,17.8,null,null,10.6
+29399,Unincorporated Vic,null,null,null,null,null
