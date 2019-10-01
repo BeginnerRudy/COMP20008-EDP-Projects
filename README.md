@@ -9,6 +9,13 @@ This project consists of 4 phases:
   -  Phase 2: Concept formulation and preliminary investigation of the project topic.
   -  Phase 3: Finilizing data processing and writing a report about data analysing.
   -  Phase 4: Oral representation
+# Denpendency
+1. pandas
+2. matplotlib
+3. datetime
+4. sklearn
+5. numpy
+6. scipy
 
 # File Structure
 ```
@@ -21,15 +28,14 @@ This project consists of 4 phases:
     |- datasets
     |- real project
         |- avoidable_death_and_service_barrier
-            |- ChatClientBuilder  
-            |- ChatClientManager
-        |- phase2 feedback.png // This is the image of the feedback for phase 2.
+            |- phase2.docx                  // The report for pahse2
+            |- phase2.pdf                   // The pdf version report for phase2
+            |- phase2_implementation.ipynb  // The python implementation of data processing
+        |- phase2 feedback.png              // This is the image of the feedback for phase 2.
 |- phase3
-    |- Constant
-    |- GeoHashing
-    |- FirebaseContent // Interface for content fetch from profile which can be converted to the actual profile
-    |- Preparable // Interface for actual profile to prepare for pushing to database
-    |- LocationTracker
+    |- phase3 code 
+        |- DataProcessing.ipynb // The python implementation for phase 3. 
+    |- PHASE3-Report.pdf // The report for phase 3
 |- phase4
     |- phase4.pdf             // The pdf version of phase4 ppt
     |- phase4.pptx            // The ppt for phase4 oral presentation
@@ -38,13 +44,6 @@ This project consists of 4 phases:
 ```
 # Techiniques
 
-# Denpendency
-1. pandas
-2. matplotlib
-3. datetime
-4. sklearn
-5. numpy
-6. scipy
 # Findings 
 
 # Conclusion
