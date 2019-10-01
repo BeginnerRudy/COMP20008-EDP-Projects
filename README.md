@@ -1,8 +1,11 @@
-# COMP20008-EDP-Projects
+# Identifying approaches to reduce avoidable death in Victoria
 
-It is the project of COMP20008 Elements of Data Processing at semester 1 2018.
+# Introduction
+This is the personal project of COMP20008 Elements of Data Processing at semester 1 2018.
+
+# Overview
 This project consists of 4 phases:
-  -  Phase 1 is about some python exercise, it helps me practice python data analysis skill, such as data selection, statisics about data, visualize data and so on.
-  -  Phase 2: Concept formulation and preliminary investigation
-  -  Phase 3: Report
+  -  Phase 1 is about some python data processing exercise, such as data selection, descriptino statisics, data visualization and so on.
+  -  Phase 2: Concept formulation and preliminary investigation of the project topic.
+  -  Phase 3: Finilizing data processing and writing a report about data analysing.
   -  Phase 4: Oral representation
