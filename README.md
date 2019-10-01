@@ -9,13 +9,13 @@ This project consists of 4 phases:
   -  Phase 2: Concept formulation and preliminary investigation of the project topic.
   -  Phase 3: Finilizing data processing and writing a report about data analysing.
   -  Phase 4: Oral representation
-# Denpendency
-1. pandas
-2. matplotlib
-3. datetime
-4. sklearn
-5. numpy
-6. scipy
+
+# Usage
+  - Package denpendency: pandas, matplotlib, datetime, sklearn, numpy, scipy, seaborn
+  - Install Jupyter Notebook to run implementation in 
+      - /phase1/notebook-for-answer.ipynb
+      - /phase2/real project/avoidable_death_and_service_barrier/phase2_implementation.ipynb
+      - /phase3/phase3 code/DataProcessing.ipynb
 
 # File Structure
 ```
@@ -42,8 +42,19 @@ This project consists of 4 phases:
     |- phase4 script.docx     // The presentation script for ora, version 1. 
     |- phase4 script v2.docx  // The presentation script for ora, version 2.
 ```
-# Techiniques
-
-# Findings 
+# Phase 3 Methodologies
+  - Data Preprocessing
+    - Data Formatting
+    - Data Intergration
+    - Handling Missing Value
+    - Adding Values
+    - Outlier Detection
+  - Data Visualization and Analysing
+    - Scatter Plot
+    - Heat Map
+    - Bar Chart
+    - Pie Chart
+    - VAT
 
 # Conclusion
+After data processing, I would say we can preventing avoidable death by reducing obese, lowexercise, risk waist measurement, psychological distress and smoking since there are positive correlations as well as encourage adequate fruit intake because of negative correlation. Furthermore, I would suggest the local government and people pay more attention to Northern Grampians (S) since there are many avoidable deaths as well as a high ratio.
